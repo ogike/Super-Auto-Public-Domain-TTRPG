@@ -1,3 +1,11 @@
+## PHOTON DEMOS FROM ASSET STORE
+Assets/Photon/PhotonRealtime/Demos/
+Assets/Photon/PhotonUnityNetworking/Demos/
+
+
+###########################################################
+## GENERIC UNITY GITIGNORE SAMPLE FROM GITHUB
+
 # This .gitignore file should be placed at the root of your Unity project directory
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
@@ -70,3 +78,6 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+ProjectSettings/Packages/com.unity.testtools.codecoverage/Settings.json
+Packages/packages-lock.json
+ProjectSettings/ProjectVersion.txt
